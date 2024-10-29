@@ -17515,7 +17515,7 @@ body.filter-opened {
 }
 
 .logo-dark {
-  max-width: 180px;
+  min-width: 180px;
   margin: auto;
   display: block;
 }
